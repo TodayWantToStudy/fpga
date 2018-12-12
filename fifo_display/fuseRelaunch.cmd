@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/Users/1/Desktop/azhao/fpga/exercises/fifo_display/fifo_display_isim_beh.exe" -prj "E:/Users/1/Desktop/azhao/fpga/exercises/fifo_display/fifo_display_beh.prj" "work.fifo_display" 

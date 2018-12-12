@@ -1,0 +1,29 @@
+
+NET "clk" LOC = T8;
+
+
+#NET "rst" LOC = L3;
+#NET "led1" LOC = P4;
+NET "seg(0)"LOC = C7;
+NET "seg(1)"LOC = E6;
+NET "seg(2)"LOC = C5;
+NET "seg(3)"LOC = F7;
+NET "seg(4)"LOC = D6;
+NET "seg(5)"LOC = E7;
+NET "seg(6)"LOC = D5;
+NET "seg(7)"LOC = C6;
+
+NET "sel(5)"LOC =D9;
+NET "sel(4)"LOC =E10;
+NET "sel(3)"LOC =F10;
+NET "sel(2)"LOC =F9;
+NET "sel(1)"LOC =E8;
+NET "sel(0)"LOC =D8;
+
+NET "b"LOC =J11;
+#NET "led2" LOC = N5;
+
+# PlanAhead Generated physical constraints 
+
+#NET "led3" LOC = P5;
+#NET "led4" LOC = M6;
